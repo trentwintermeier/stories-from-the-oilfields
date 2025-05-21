@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "09ac8225-1901-4ce2-a1a8-edccf7b1e1f6": {
+      "label": "Environment Texas Lorraine Spickermann Interview",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/L4BMOgZFTzE",
+      "duration": 106
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Environment Texas Lorraine Spickermann Interview",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Stories from the Oilfields” is our ongoing series of collected interviews from residents of some of the oil producing areas of Texas and experts on the impacts of the fossil fuel industry."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-21T13:28:58.221Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-05-21T13:28:58.221Z",
+  "updated_by": "trentwintermeier"
+}

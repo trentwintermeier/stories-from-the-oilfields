@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "b75c78de-9841-42f0-9bbb-9edeb237c1e3": {
+      "label": "Environment Texas Todd Richardson Interview",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/xyt8ZyJMIbQ",
+      "duration": 277
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Environment Texas Todd Richardson Interview",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Stories from the Oilfields” is our ongoing series of collected interviews from residents of some of the oil producing areas of Texas and experts on the impacts of the fossil fuel industry."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-21T13:28:58.221Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-05-21T13:28:58.221Z",
+  "updated_by": "trentwintermeier"
+}

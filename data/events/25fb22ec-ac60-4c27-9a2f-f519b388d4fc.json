@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "26453ee4-bff7-4313-ad47-aec8f76a1443": {
+      "label": "Environment Texas Dr. Brooks Interview ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/C-5iQ_Xoc2c",
+      "duration": 205
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Environment Texas Dr. Brooks Interview ",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Stories from the Oilfields” is our ongoing series of collected interviews from residents of some of the oil producing areas of Texas and experts on the impacts of the fossil fuel industry."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-21T13:28:58.221Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-05-21T13:28:58.221Z",
+  "updated_by": "trentwintermeier"
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "760fc2be-f3d9-499a-a285-50324f660738": {
+      "label": "Environment Texas Schuyler Wight Interview",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/3L0WIv_sgrc",
+      "duration": 146
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Environment Texas Sarah Stogner Interview",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Stories from the Oilfields” is our ongoing series of collected interviews from residents of some of the oil producing areas of Texas and experts on the impacts of the fossil fuel industry."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-21T13:28:58.221Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-05-21T13:28:58.221Z",
+  "updated_by": "trentwintermeier"
+}
