@@ -5,7 +5,8 @@
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/C-5iQ_Xoc2c",
-      "duration": 204
+      "duration": 204,
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +23,9 @@
   ],
   "created_at": "2025-05-23T20:37:08.122Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-05-23T20:37:08.122Z",
-  "updated_by": "trentwintermeier"
+  "updated_at": "2025-05-23T20:59:48.775Z",
+  "updated_by": "trentwintermeier",
+  "av_file_order": [
+    "239e33a6-f066-4dc8-84ea-25bfb410dd27"
+  ]
 }
