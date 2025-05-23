@@ -3,10 +3,11 @@
   "created_at": "2025-05-21T13:26:35.055Z",
   "created_by": "trentwintermeier",
   "title": "Stories from the Oilfields",
-  "updated_at": "2025-05-23T21:01:20.557Z",
+  "updated_at": "2025-05-23T21:01:28.858Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": true,
     "type": "home"
-  }
+  },
+  "parent": "b778e1ac-d213-480a-9d60-e3b6313797c2"
 }
