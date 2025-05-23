@@ -272,7 +272,10 @@
           "children": [
             {
               "text": "Video Link",
-              "link": "https://www.youtube.com/watch?v=C-5iQ_Xoc2c&t=4s"
+              "link": "https://www.youtube.com/watch?v=C-5iQ_Xoc2c&t=4s",
+              "bold": true,
+              "italic": true,
+              "textSize": "heading-four"
             }
           ]
         }
