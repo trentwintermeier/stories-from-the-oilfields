@@ -1,1 +1,63 @@
-{"annotations":[],"set":"Default","event_id":"80849169-bf99-4019-8220-22682b61f84e","source_id":"c042a9b2-4a5d-411f-abd9-6b67ecdc4e79"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Text on screen introducing project",
+              "bold": true,
+              "italic": true,
+              "highlight": "#d93030"
+            }
+          ]
+        },
+        {
+          "type": "table-of-contents",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table-of-contents",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "80ec27c3-4ffb-40cd-ba43-a2cb84920578"
+    }
+  ],
+  "set": "Default",
+  "event_id": "80849169-bf99-4019-8220-22682b61f84e",
+  "source_id": "c042a9b2-4a5d-411f-abd9-6b67ecdc4e79"
+}
