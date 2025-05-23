@@ -24,28 +24,89 @@
     "auto_populate_home_page": false,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
+      "tagGroups": [
+        {
+          "category": "Transcript",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Interviewer",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Interviewee",
+          "color": "#99E6FF"
+        }
+      ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Text"
+          "tag": "Audio",
+          "category": "Transcript"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Audio"
+          "tag": "Text",
+          "category": "Transcript"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Edward Brooks"
+          "tag": "Micheal Lewis",
+          "category": "Interviewer"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Michael Lewis"
+          "tag": "Edward Brooks",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "James Clendenen",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Linda Batchelor",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Makenna Wilson",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Michael Zavada",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Todd Richardson",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Neta Rhyne",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Schuyler Wight",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Sarah Stogner",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Suzanne Franklin",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Christa Mancias",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Frankie Orona",
+          "category": "Interviewee"
         }
       ]
     },
     "created_at": "2025-05-21T13:26:35.017Z",
-    "updated_at": "2025-05-23T20:39:24.125Z",
+    "updated_at": "2025-05-23T20:41:52.462Z",
     "generate_pages_site": true
   },
   "annotations": {},
