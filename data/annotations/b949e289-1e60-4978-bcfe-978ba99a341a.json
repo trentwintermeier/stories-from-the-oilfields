@@ -262,6 +262,23 @@
         }
       ],
       "uuid": "24a18c84-c588-48c0-95d8-5864f402213d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Link",
+              "link": "https://www.youtube.com/watch?v=C-5iQ_Xoc2c&t=4s"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb59c96a-2cec-458f-b56a-68ee6582a580"
     }
   ],
   "set": "Default",
