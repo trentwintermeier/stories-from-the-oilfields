@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "0f642a22-2217-4a31-b03a-b66884523f9f": {
+      "label": "AV File 1",
+      "file_url": "https://youtu.be/eq9wwS2q3tE",
+      "duration": 188
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-28T13:35:52.095Z",
+  "created_by": "trentwintermeier",
+  "item_type": "Video",
+  "label": "Environment Texas Permian Basin Students Interview",
+  "updated_at": "2025-05-28T13:35:52.095Z",
+  "updated_by": "trentwintermeier"
+}

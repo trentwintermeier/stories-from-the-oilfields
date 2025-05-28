@@ -1,0 +1,215 @@
+{
+  "event_id": "ced6df82-fcd6-4356-add4-24ffede776e8",
+  "source_id": "0f642a22-2217-4a31-b03a-b66884523f9f",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "text": "In October 2022, Environment Texas travelled to Midland, Texas, to attend a meeting of the Texas House of Representatives Energy Resources Committee to comment on rules related to oil and gas production. While we were there, we took the time to visit the University of Texas Permian Basin to hear from students who lived near production sites and hear their thoughts. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "601c33ef-f1d1-446c-9d8b-e35a5f3fc2b2"
+    },
+    {
+      "start_time": 16,
+      "end_time": 22,
+      "annotation": [
+        {
+          "text": "Here's what they had to say..."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "55f4d866-88a3-4083-996f-60a9278c960c"
+    },
+    {
+      "start_time": 22,
+      "end_time": 38,
+      "annotation": [
+        {
+          "text": "... A good example is when I was in Middle School we were going through a very serious drought and they were trying to figure out ways to get more water into the oil production, like fracking and things like that, to get more oil out of the ground."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "James Clendenen"
+        }
+      ],
+      "uuid": "eb396f25-6bda-4fe6-9c34-128835497d82"
+    },
+    {
+      "start_time": 38,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "The problem was that they were mixing chemicals with water supplies and not doing a very good job checking where the pipes were going and our local water supply our aquifer crane was contaminated by these kinds of chemicals."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "James Clendenen"
+        }
+      ],
+      "uuid": "286e2587-01e8-4c40-84b8-b1b9f2a23b35"
+    },
+    {
+      "start_time": 53,
+      "end_time": 77,
+      "annotation": [
+        {
+          "text": "Everybody in our town received a letter saying that there had been a leak of arsenic into the water and that nobody should drink the water until further notice. And ever since then, my family has refused to drink tap water. We always buy our water bottled water jugs of water we just we don't really trust that the water is really safe."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "James Clendenen"
+        }
+      ],
+      "uuid": "b8a24013-2251-426c-b61d-e752e1998a8c"
+    },
+    {
+      "start_time": 77,
+      "end_time": 101,
+      "annotation": [
+        {
+          "text": "... Fracking has done more than just that like over the past 30 years there's a little difference in like seismic activity. My Dad worked at a utility, halfway between Eunice and Hobbs, called Uranco and they built that facility there because it was supposed to be stable ground."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linda Batchelor"
+        }
+      ],
+      "uuid": "154e4af2-cd84-4a2a-818f-50bc4083ad96"
+    },
+    {
+      "start_time": 101,
+      "end_time": 124,
+      "annotation": [
+        {
+          "text": "It has tripped the centrifuges to turn off because of seismic activity which was never supposed to happen. Over the past 30 years and even more so recently, fracking has caused a nuclear facility to turn everything off."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linda Batchelor"
+        }
+      ],
+      "uuid": "e4c68e5f-9c72-49a3-9e68-5ed10266e5c2"
+    },
+    {
+      "start_time": 124,
+      "end_time": 145,
+      "annotation": [
+        {
+          "text": "I think one of the biggest effects of pollution is global warming, and you can see that in the Mendessa area in the Summers that we've had. I mean how many Summers does it have to be that it's the record hottest summer for us to start saying that there's a bit of a problem?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Makenna Wilson"
+        }
+      ],
+      "uuid": "31da9bf0-3419-420b-8a89-dfb5ed59a568"
+    },
+    {
+      "start_time": 145,
+      "end_time": 160,
+      "annotation": [
+        {
+          "text": "... It stinks, going outside is not fresh air anymore, it stinks. And you get headaches and the sulfur and-- I believe it's Hydro.. is it hydrogen sulfide? I can't remember-- but it's lethal. It's something like that, and it's lethal."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linda Batchelor"
+        }
+      ],
+      "uuid": "bf3a00b0-5ddf-484e-b502-01cad871f1f2"
+    },
+    {
+      "start_time": 164,
+      "end_time": 182,
+      "annotation": [
+        {
+          "text": "I just remember going camping a few times and just hating it because it wasn't clean and fresh and away from the smog and the stink of cars. It stank of, you know, sulfur and oil, because it was so close."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linda Batchelor"
+        }
+      ],
+      "uuid": "37f0d3ab-e466-4ef9-94f0-90aafeb6bb3e"
+    },
+    {
+      "start_time": 182,
+      "end_time": 187,
+      "annotation": [
+        {
+          "text": "Sign our petition below to tell the EPA to rein in global warming pollution from oil and gas drilling!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Text"
+        }
+      ],
+      "uuid": "45432756-473c-4a3f-aa35-aba119cc6e28"
+    }
+  ]
+}
