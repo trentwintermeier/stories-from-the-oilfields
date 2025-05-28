@@ -1,1 +1,270 @@
-{"annotations":[],"set":"Default","event_id":"20596004-34bc-40e0-b44c-105a1c13d43c","source_id":"09ac8225-1901-4ce2-a1a8-edccf7b1e1f6"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Permian Basin is an area in Western Texas and Southeastern New Mexico covering more than 86,000 square miles. It accounts for 40% of the nation's oil and in 2020, was producing over 4 million barrels of oil a day. Environment Texas traveled the area speaking to residents and local experts to find out what it was like to live in the oil capital of Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "447fcb88-7f25-4e0a-883c-06e9c5ce520b"
+    },
+    {
+      "start_time": 11,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorraine Spickermann is an instructor with the School of Education the University of Texas - Permian Basin. She has lived in the Permian for more than 20 years and seen the impacts of the fossil fuel industry on students, residents and the environment. Here are some of her thoughts. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "fbf0b7ef-71c6-451d-97f4-f8502439b6ce"
+    },
+    {
+      "start_time": 23,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, when we first lived here, for the first ten or fifteen years, we never experienced earthquakes. More recently, we do have very small ones: two and four, and they're centered north of town or north-east of town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "1422c2b0-5e21-4540-ac41-fed535213bcc"
+    },
+    {
+      "start_time": 37,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. What's north and north-east of town?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Micheal Lewis",
+          "category": "Interviewer"
+        }
+      ],
+      "uuid": "be78dc62-29d4-4088-99a9-c8e95e6dda74"
+    },
+    {
+      "start_time": 41,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fields. Pumpjacks. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "c6434ea7-86ee-42bc-b36a-98884f83c67b"
+    },
+    {
+      "start_time": 45,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's where the fracking and the the extraction is actually happening, right? And it just happens to coincide with where the earthquakes are centered?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "235d999f-dddc-46ff-a1fc-5211761781ff"
+    },
+    {
+      "start_time": 55,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Potentially, yes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "12883fb9-682e-47f1-8c51-f74f5e52f81e"
+    },
+    {
+      "start_time": 56,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Potentially. Right. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "72dec99b-183c-4722-a1ef-7db097c95229"
+    },
+    {
+      "start_time": 59,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had an exchange student visiting from China, and one day she said \"oh, I love the smell.\" That's an awful smell. Well, it's actually the smell of fuel, the burn off, just the smell of whatever you know we put into the chemicals to make it so you can identified. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "ef14ebfe-6121-4164-b835-578373676252"
+    },
+    {
+      "start_time": 76,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To her that's a beautiful smell, and I'm thinking, that's an industrial pollutant smell. And other days we don't smell it, but sometimes you do smell the twang which way the wind's blowing. So to me that's something that I don't personally enjoy but for her she lives in an industrial town that's a normal smell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Lorraine Spickermann",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "d1c8d9b6-8723-4162-9abe-6d94d3480e06"
+    },
+    {
+      "start_time": 93,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sign our petition below to tell the EPA to rein in global warming pollution from oil and gas drilling!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "bcdf5e3c-95a9-4580-972c-0c3249269fbd"
+    }
+  ],
+  "set": "Default",
+  "event_id": "20596004-34bc-40e0-b44c-105a1c13d43c",
+  "source_id": "09ac8225-1901-4ce2-a1a8-edccf7b1e1f6"
+}
