@@ -1,1 +1,270 @@
-{"annotations":[],"set":"Default","event_id":"691cc049-a16d-428d-9327-be91b37f65ca","source_id":"22f4f3cf-dea7-49cb-9eb2-dc24c4adbe07"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In October 2022, Environment Texas travelled to Midland, Texas, to attend a meeting of the Texas House of Representatives Energy Resources Committee to comment on rules related to oil and gas production. While we were there, we took the time to visit the University of Texas Permian Basin to hear from students who lived near production sites and hear their thoughts. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "fea5deb7-1e12-4e5c-a4c8-3b97f84099f3"
+    },
+    {
+      "start_time": 16,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here's what they had to say..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "06849f6e-9bd1-4c1f-b8cb-2ce0e8b93236"
+    },
+    {
+      "start_time": 22,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... A good example is when I was in Middle School we were going through a very serious drought and they were trying to figure out ways to get more water into the oil production, like fracking and things like that, to get more oil out of the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "James Clendenen",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "a42e8279-1476-4bce-afe8-6185601dea71"
+    },
+    {
+      "start_time": 38,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem was that they were mixing chemicals with water supplies and not doing a very good job checking where the pipes were going and our local water supply our aquifer crane was contaminated by these kinds of chemicals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "James Clendenen",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "bd0e668a-c3c3-466c-a0ce-9dc325ced02b"
+    },
+    {
+      "start_time": 53,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everybody in our town received a letter saying that there had been a leak of arsenic into the water and that nobody should drink the water until further notice. And ever since then, my family has refused to drink tap water. We always buy our water bottled water jugs of water we just we don't really trust that the water is really safe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "James Clendenen",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "5d0a3b91-93dd-4665-bf34-3e5f756fec89"
+    },
+    {
+      "start_time": 77,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... Fracking has done more than just that like over the past 30 years there's a little difference in like seismic activity. My Dad worked at a utility, halfway between Eunice and Hobbs, called Uranco and they built that facility there because it was supposed to be stable ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Linda Batchelor",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "e138bcf4-91e8-4e26-ac42-d1c483eb306c"
+    },
+    {
+      "start_time": 101,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It has tripped the centrifuges to turn off because of seismic activity which was never supposed to happen. Over the past 30 years and even more so recently, fracking has caused a nuclear facility to turn everything off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Linda Batchelor",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "fb6b84e5-102f-4ed6-bf26-769b5cf78af7"
+    },
+    {
+      "start_time": 124,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think one of the biggest effects of pollution is global warming, and you can see that in the Mendessa area in the Summers that we've had. I mean how many Summers does it have to be that it's the record hottest summer for us to start saying that there's a bit of a problem?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Makenna Wilson",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "b9cf40bc-e6ca-4a0d-89ff-867267da82a4"
+    },
+    {
+      "start_time": 145,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... It stinks, going outside is not fresh air anymore, it stinks. And you get headaches and the sulfur and-- I believe it's Hydro.. is it hydrogen sulfide? I can't remember-- but it's lethal. It's something like that, and it's lethal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Linda Batchelor",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "ffed2600-5fa5-4399-92fa-5f084efd6981"
+    },
+    {
+      "start_time": 164,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just remember going camping a few times and just hating it because it wasn't clean and fresh and away from the smog and the stink of cars. It stank of, you know, sulfur and oil, because it was so close."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "Linda Batchelor",
+          "category": "Interviewee"
+        }
+      ],
+      "uuid": "9b488db2-acd9-43e5-9dbe-e25d6344d367"
+    },
+    {
+      "start_time": 182,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sign our petition below to tell the EPA to rein in global warming pollution from oil and gas drilling!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Text",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "987c95ec-7187-4e8f-a7b3-8b4249c8e2ad"
+    }
+  ],
+  "set": "Default",
+  "event_id": "691cc049-a16d-428d-9327-be91b37f65ca",
+  "source_id": "22f4f3cf-dea7-49cb-9eb2-dc24c4adbe07"
+}
