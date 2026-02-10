@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-02-10T15:15:50.363Z",
+  "created_by": "trentwintermeier",
+  "title": "test",
+  "slug": "test",
+  "updated_at": "2026-02-10T15:15:50.363Z",
+  "updated_by": "trentwintermeier",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "60a30bb5-030b-4e7e-b23a-eb51c9379b3e"
+  }
+}
